@@ -1,56 +1,102 @@
 # 🐍 Python Mini Projects
 
-Welcome to my collection of beginner-friendly Python projects! 🚀
+Welcome to my collection of Python mini projects! 🚀
 
-This repository contains projects that I built while learning Python and improving my programming skills.
-
-## 📂 Projects
-
-### 🎯 Number Guessing Game
-
-A game where the computer randomly selects a number and the player tries to guess it within limited attempts.
-
-**Concepts Used**
-
-* Loops
-* Conditionals
-* Random Module
-* User Input
-* Counters
+This repository documents my journey of learning Python by building practical, hands-on projects. Each project focuses on strengthening programming fundamentals while introducing new Python concepts and problem-solving techniques.
 
 ---
 
-### ✂️ Rock Paper Scissors
+## 📂 Projects
 
-A classic Rock-Paper-Scissors game against the computer.
+### 🎯 01. Number Guessing Game
 
-**Concepts Used**
+A command-line game where the computer randomly selects a number and the player attempts to guess it within limited attempts.
 
-* Loops
-* Conditionals
-* Random Module
-* Score Tracking
-* Input Validation
+**Concepts Practiced**
+- Loops
+- Conditional Statements
+- Random Module
+- User Input
+- Counters
+
+---
+
+### ✂️ 02. Rock Paper Scissors
+
+A classic Rock-Paper-Scissors game where the user competes against the computer with score tracking.
+
+**Concepts Practiced**
+- Loops
+- Conditional Statements
+- Random Module
+- Input Validation
+- Score Tracking
+
+---
+
+### 📁 03. CRUD File System
+
+A menu-driven Python application that performs CRUD (Create, Read, Update, Delete) operations on files using a modular project structure.
+
+**Features**
+- Create new files
+- Read file contents
+- Update files
+  - Rename
+  - Append
+  - Overwrite
+- Delete files
+- Activity logging with timestamps
+- Exception handling
+- Modular programming using multiple Python files
+
+**Concepts Practiced**
+- File Handling
+- Exception Handling
+- Pathlib
+- Functions
+- Modules
+- Logging
+- CRUD Operations
 
 ---
 
 ## 🛠️ Skills Practiced
 
-* Python Fundamentals
-* Problem Solving
-* Logic Building
-* User Input Handling
-* Control Flow
-* Git & GitHub
+- Python Fundamentals
+- Problem Solving
+- Logic Building
+- Functions
+- Modular Programming
+- File Handling
+- Exception Handling
+- Pathlib
+- Command Line Applications (CLI)
+- Git & GitHub
 
 ---
 
-## 🎯 Future Projects
+## 📁 Repository Structure
 
-* 🔐 Password Generator
-* 📝 Quiz Game
-* 🧮 Calculator
-* 🎲 Dice Roller
+```text
+python-mini-projects/
+│
+├── README.md
+├── 01-number-guessing-game.py
+├── 02-rock-paper-scissor-game.py
+│
+└── 03-crud-file-system/
+    ├── README.md
+    ├── main.py
+    ├── file_ops.py
+    └── utils.py
+```
+
+---
+
+## 🎯 Learning Goals
+
+This repository is part of my Python learning journey. My goal is to build strong programming fundamentals before moving toward Data Engineering and advanced Python development.
 
 ---
 
@@ -58,4 +104,8 @@ A classic Rock-Paper-Scissors game against the computer.
 
 **Pooja Kanwar**
 
-🌱 Learning Python one project at a time.
+B.Tech CSE Student | Python Learner | Aspiring Data Engineer
+
+🌱 *Learning Python one project at a time while building a strong GitHub portfolio.*
+
+GitHub: **https://github.com/Pooja-47**
